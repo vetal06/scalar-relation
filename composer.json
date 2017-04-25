@@ -12,7 +12,7 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "vetal06\\yii2\\scalar-relation\\": "" }
+        "psr-4": { "vetal06\\scalarrelation\\": "" }
     },
     "repositories": [
         {
