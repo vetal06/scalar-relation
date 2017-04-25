@@ -13,5 +13,11 @@
     },
     "autoload": {
         "psr-4": { "vetal06\\yii2\\scalar-relation\\": "" }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vetal06/scalar-relation"
+        }
+    ]
 }

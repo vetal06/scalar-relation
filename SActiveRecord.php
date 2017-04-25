@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\components\scalarRelation;
+namespace vetal06\scalarRelation;
 
 use Yii;
 use yii\base\Exception;
