@@ -1,0 +1,17 @@
+{
+    "name": "vetal06/scalar-relation",
+    "description": "Yii 2 scalar relation for ActiveRecord",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Skripnik Vitaliy",
+            "email": "bbssvv06@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "vetal06\\yii2\\scalar-relation\\": "" }
+    }
+}
