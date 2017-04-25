@@ -1,0 +1,1 @@
+<h1>Scalar relation for yii2 ActiveRecord</h1>
